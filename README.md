@@ -94,24 +94,22 @@ Before running the analysis, ensure you have the following installed:
 
 3. **Install the Required Python Libraries:** Before running the code in this project, ensure you have the necessary Python libraries installed. You can install them using `pip`, the Python package manager. Here are the required libraries along with the installation commands:
 
-- **pandas**: A powerful data manipulation and analysis library.
-
-```bash
-pip install pandas
-
-
-- **numpy**: A library for numerical computations in Python.
+   - **pandas**: A powerful data manipulation and analysis library.
+   ```bash
+   pip install pandas
+   ```
 
 
-```bash
-pip install numpy
+   - **numpy**: A library for numerical computations in Python.
+   ```bash
+   pip install numpy
+   ```
 
 
-
-- **plotly**: An interactive graphing library for creating interactive visualizations.
-
-```bash
-pip install plotly
+   - **plotly**: An interactive graphing library for creating interactive visualizations.
+   ```bash
+   pip install plotly
+   ```
 
 
 Make sure you have Python and pip installed on your system before running these commands. Once you've installed the required libraries, you should be all set to run the code and explore the project.
