@@ -55,7 +55,7 @@ The primary objective of this project is to understand and optimize marketing st
 
 While reviewing this project, it's important to note that certain aspects of the code and data have been altered to preserve the confidentiality of the company. To uphold privacy and security measures, fictitious names have been used for tables and columns. These alterations were made with the utmost care to maintain the integrity of the project while safeguarding sensitive information.
 
-By implementing these changes, I aim to demonstrate my commitment to ethical considerations and my dedication to maintaining the confidentiality of proprietary data. The fictitious elements in no way diminish the significance of the project's technical achievements and the strides made in data migration and accessibility.
+By implementing these changes, I aim to demonstrate my commitment to ethical considerations and my dedication to maintaining the confidentiality of proprietary data. The fictitious elements in no way diminish the significance of the project's technical achievements.
 
 I appreciate your understanding of these precautions and their significance in a real-world business context. If you have any inquiries regarding the methodology or specific technical aspects, please don't hesitate to get in touch.
 
