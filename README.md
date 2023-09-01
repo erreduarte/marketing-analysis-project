@@ -1,6 +1,5 @@
 # Marketing Analysis Project
 
-![Funnel](link-to-image)
 
 ## Overview
 
