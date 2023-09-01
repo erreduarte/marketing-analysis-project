@@ -51,9 +51,15 @@ The primary objective of this project is to understand and optimize marketing st
 
 - Shopping cart abandonment is calculated by comparing the number of completed purchases to the number of products added to the cart, revealing potential friction points in the checkout process.
 
-## Data Privacy
+## Acknowledgments
 
-It's important to note that some data in the dataset may have been anonymized or altered to comply with privacy and data protection regulations. User privacy and data security are a top priority in this analysis.
+While reviewing this project, it's important to note that certain aspects of the code and data have been altered to preserve the confidentiality of the company. To uphold privacy and security measures, fictitious names have been used for tables and columns. These alterations were made with the utmost care to maintain the integrity of the project while safeguarding sensitive information.
+
+By implementing these changes, I aim to demonstrate my commitment to ethical considerations and my dedication to maintaining the confidentiality of proprietary data. The fictitious elements in no way diminish the significance of the project's technical achievements and the strides made in data migration and accessibility.
+
+I appreciate your understanding of these precautions and their significance in a real-world business context. If you have any inquiries regarding the methodology or specific technical aspects, please don't hesitate to get in touch.
+
+Thank you for your interest in exploring this project, and I'm available to provide any further insights or clarifications you may require.
 
 ## Getting Started
 
@@ -94,7 +100,3 @@ Before running the analysis, ensure you have the following installed:
 
    ```bash
    jupyter notebook marketing_data_analysis.ipynb
-
-
-
-
