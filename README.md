@@ -63,7 +63,9 @@ Thank you for your interest in exploring this project, and I'm available to prov
 
 ## Files
 
-[marketing-analysis-project.ipynb](https://github.com/erreduarte/marketing-analysis-project/blob/ddc6b355934dfcc592d6393deca6189c10120ec5/marketing_analysis.ipynb): The Jupyter Notebook file used to run the analysis.
+1. [marketing-analysis-project.ipynb](https://github.com/erreduarte/marketing-analysis-project/blob/ddc6b355934dfcc592d6393deca6189c10120ec5/marketing_analysis.ipynb): The Jupyter Notebook where analysis took place.
+2. [data_set_da_test.csv](https://github.com/erreduarte/marketing-analysis-project/blob/29528d04de795a736293a49b905dc3ad2fbca42a/data_set_da_test.zip): CSV file used to run the analysis.
+   
 
 ## Getting Started
 
@@ -98,7 +100,7 @@ Before running the analysis, ensure you have the following installed:
 4. **Download Your Own Dataset:** Replace the example dataset file path in the code with your own dataset:
 
    ```bash
-   df = pd.read_csv("your-data-file.csv")
+   df = pd.read_csv("data_set_da_test.csv")
 
 5. **Run the Jupyter Notebook:** Execute the Jupyter Notebook to perform the analysis:
 
