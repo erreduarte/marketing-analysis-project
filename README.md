@@ -11,43 +11,43 @@ The primary objective of this project is to understand and optimize marketing st
 
 ## Key Metrics
 
-### Website Views
+#### Website Views
 
 - The project starts by counting the number of unique users who visited the company's website, providing insights into the overall reach.
 
-### Navigation
+#### Navigation
 
 - This metric focuses on users who navigated the website, filtering by specific page types like search listing pages and listing pages.
 
-### Product Views
+#### Product Views
 
 - Product views are analyzed by tracking users who viewed product pages, helping to understand user interest.
 
-### Intention to Buy
+#### Intention to Buy
 
 - The analysis identifies users who demonstrated the intention to purchase by adding products to their carts.
 
-### Checkout
+#### Checkout
 
 - The number of users who successfully completed a purchase is counted, offering a critical conversion metric.
 
-### Conversion Rate
+#### Conversion Rate
 
 - The conversion rate is calculated as the percentage of users who completed a purchase out of total website visitors, providing a clear measure of campaign success.
 
-### Conversions per Month
+#### Conversions per Month
 
 - The project includes a breakdown of conversions (purchases) per month, helping to identify trends and seasonal variations in user behavior.
 
-### Average Time Spent
+#### Average Time Spent
 
 - The average time users spend on the website is determined, offering insights into user engagement and content relevance.
 
-### Return Rate
+#### Return Rate
 
 - The return rate measures the percentage of users who return to the website after their initial visit, helping to gauge user loyalty.
 
-### Shopping Cart Abandonment Rate
+#### Shopping Cart Abandonment Rate
 
 - Shopping cart abandonment is calculated by comparing the number of completed purchases to the number of products added to the cart, revealing potential friction points in the checkout process.
 
