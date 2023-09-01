@@ -61,6 +61,10 @@ I appreciate your understanding of these precautions and their significance in a
 
 Thank you for your interest in exploring this project, and I'm available to provide any further insights or clarifications you may require.
 
+## Files
+
+[marketing-analysis-project.ipynb]: The Jupyter Notebook file used to run the analysis.
+
 ## Getting Started
 
 To run this analysis on your own data, follow these steps:
