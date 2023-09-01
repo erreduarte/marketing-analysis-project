@@ -74,3 +74,27 @@ Before running the analysis, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/marketing-data-analysis.git
+
+2. **Navigate to the Project Directory:** Change to the project directory:
+
+   ```bash
+   cd marketing-data-analysis
+
+3. **Install the Required Python Libraries:** Make sure you have Python (3.x) installed. Install the necessary Python libraries using pip:
+
+   ```bash
+   pip install pandas plotly
+
+4. **Download Your Own Dataset:** Replace the example dataset file path in the code with your own dataset:
+
+   ```bash
+   df = pd.read_csv("your-data-file.csv")
+
+5. **Run the Jupyter Notebook:** Execute the Jupyter Notebook to perform the analysis:
+
+   ```bash
+   jupyter notebook marketing_data_analysis.ipynb
+
+
+
+
