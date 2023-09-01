@@ -63,7 +63,7 @@ Thank you for your interest in exploring this project, and I'm available to prov
 
 ## Files
 
-[marketing-analysis-project.ipynb]: The Jupyter Notebook file used to run the analysis.
+[marketing-analysis-project.ipynb](https://github.com/erreduarte/marketing-analysis-project/blob/ddc6b355934dfcc592d6393deca6189c10120ec5/marketing_analysis.ipynb): The Jupyter Notebook file used to run the analysis.
 
 ## Getting Started
 
