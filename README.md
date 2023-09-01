@@ -99,16 +99,41 @@ Before running the analysis, ensure you have the following installed:
    pip install pandas
    ```
 
+   **or**
+
+      ```bash
+   import pandas as pd
+   ```
+      
+
 
    - **numpy**: A library for numerical computations in Python.
    ```bash
    pip install numpy
    ```
+   
+   **or**
+
+      ```bash
+   import numpy as np
+   ```
+      
 
 
    - **plotly**: An interactive graphing library for creating interactive visualizations.
    ```bash
-   pip install plotly
+   from plotly import graph_objects as go
+   ```
+   
+
+   - **datetime**:  Module that provides classes and functions for working with dates and times.
+   ```bash
+   pip install datetime
+   ```
+      **or**
+
+      ```bash
+   import datetime
    ```
 
 
