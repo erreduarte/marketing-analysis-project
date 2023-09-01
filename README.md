@@ -100,3 +100,5 @@ Before running the analysis, ensure you have the following installed:
 
    ```bash
    jupyter notebook marketing_data_analysis.ipynb
+
+This will open the Jupyter Notebook interface in your web browser, allowing you to execute each step of the analysis.
