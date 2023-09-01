@@ -99,10 +99,13 @@ Before running the analysis, ensure you have the following installed:
 ```bash
 pip install pandas
 
+
 - **numpy**: A library for numerical computations in Python.
+
 
 ```bash
 pip install numpy
+
 
 
 - **plotly**: An interactive graphing library for creating interactive visualizations.
