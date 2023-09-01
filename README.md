@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Marketing Data Analysis Project is an in-depth exploration of marketing data aimed at providing valuable insights into user behavior and interactions with a company's website. The project uses Python, pandas, and Plotly to process, visualize, and interpret marketing data. This analysis is particularly important for the marketing sector as it uncovers critical metrics, conversion rates, and user engagement.
+The Marketing Data Analysis Project is an in-depth exploration of marketing data aimed at providing valuable insights into user behavior and interactions with a company's e-commerce. The project uses Python, pandas, and Plotly to process, visualize, and interpret marketing data. This analysis is particularly important for the marketing sector as it uncovers critical metrics, conversion rates, and user engagement.
 
 ## Objective
 
